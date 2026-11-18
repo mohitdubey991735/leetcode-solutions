@@ -13,4 +13,16 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0103-binary-tree-zigzag-level-order-traversal](https://github.com/mohitdubey991735/leetcode-solutions/tree/master/0103-binary-tree-zigzag-level-order-traversal) |
+## Array
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mohitdubey991735/leetcode-solutions/tree/master/0189-rotate-array) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mohitdubey991735/leetcode-solutions/tree/master/0189-rotate-array) |
+## Two Pointers
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/mohitdubey991735/leetcode-solutions/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
